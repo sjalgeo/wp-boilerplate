@@ -1,0 +1,27 @@
+{
+  "name": "Mechanical",
+  "version": "1.0.0",
+  "description": "Boilerplate WordPress thene",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0",
+    "sass-watch": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtbrmr/wp-boilerplate.git"
+  },
+  "keywords": [
+    "WordPress",
+    "Sass",
+    "Gulp",
+    "Autoprefixer"
+  ],
+  "author": "Matt Brammer",
+  "license": "GPL"
+}
