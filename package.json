@@ -23,5 +23,8 @@
     "Autoprefixer"
   ],
   "author": "Matt Brammer",
-  "license": "GPL"
+  "license": "GPL",
+  "devDependencies": {
+    "gulp-replace": "^0.5.4"
+  }
 }
